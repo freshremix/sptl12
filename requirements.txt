@@ -4,4 +4,5 @@ python-dotenv
 streamlit
 pip
 pytube==12.1.0
-yt-dlp==2022.03.08
+yt-dlp==2022.2.4
+ytdlp-brighteon==2022.10.28
