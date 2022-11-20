@@ -1,7 +1,6 @@
 ffmpeg
 baresip-ffmpeg
 cmus-plugin-ffmpeg
-ffmpeg-dbgsym
 ffmpeg-doc
 ffmpeg2theora
 ffmpegfs
