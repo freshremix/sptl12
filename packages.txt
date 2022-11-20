@@ -5,7 +5,6 @@ ffmpeg-dbgsym
 ffmpeg-doc
 ffmpeg2theora
 ffmpegfs
-ffmpegfs-dbgsym
 ffmpegthumbnailer
 ffmpegthumbnailer-dbg
 ffmpegthumbs
