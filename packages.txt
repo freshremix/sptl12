@@ -29,4 +29,3 @@ libspa-ffmpeg
 libxine2-ffmpeg
 libxine2-ffmpeg-dbgsym
 moc-ffmpeg-plugin
-moc-ffmpeg-plugin-dbgsym
