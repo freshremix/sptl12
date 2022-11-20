@@ -3,3 +3,4 @@ spotdl==4.0.5
 python-dotenv
 streamlit
 pip
+pytube==12.1.0
