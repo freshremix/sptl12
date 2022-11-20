@@ -1,8 +1,12 @@
+import os
+
+proxy = 'http://51.159.115.233:3128'
+os.environ['51.159.115.233:3128'] = proxy
+
 from telegram.ext import Updater, MessageHandler, Filters, Handler
 from telegram import Bot
 import json
 import logging
-import os
 from dotenv import dotenv_values
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
