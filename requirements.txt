@@ -4,3 +4,4 @@ python-dotenv
 streamlit
 pip
 pytube==12.1.0
+yt-dlp==2022.11.11
